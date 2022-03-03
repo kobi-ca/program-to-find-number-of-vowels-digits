@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.21)
+project(program_to_find_number_of_vowels_digits)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(program_to_find_number_of_vowels_digits main.cpp)
+add_executable(program_to_find_number_of_vowels_digits_1 main1.cpp)
